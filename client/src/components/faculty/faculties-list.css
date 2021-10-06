@@ -1,0 +1,26 @@
+#label{
+    font-size: 25px !important;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#data{
+    font-size: 25px !important;
+    font-family:'Segoe UI', Tahoma, sans-serif;
+}
+
+#title{
+    font-size: 32px !important;
+    font-family:Verdana, sans-serif;
+}
+#text {
+    font-size: 20px !important;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#table {
+    font-size: 27px !important;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+
+body {
+    background-color:rgb(253, 211, 183);
+}
